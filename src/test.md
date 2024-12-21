@@ -1,3 +1,3 @@
 ```js
-display(1 + Math.random());
+display(1 + 5);
 ```
