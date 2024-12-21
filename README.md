@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # observable
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
@@ -57,3 +58,6 @@ A typical Framework project looks like this:
 | `npm run deploy`     | Deploy your app to Observable                            |
 | `npm run clean`      | Clear the local data loader cache                        |
 | `npm run observable` | Run commands like `observable help`                      |
+=======
+# InfoVis
+>>>>>>> 8a5708ae8835e2ff474b7d84a301e5f979385e7c
